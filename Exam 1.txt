@@ -1,0 +1,13 @@
+Dictionery
+Read and write local files
+1st file for words
+2nd file for description
+
+Have to check if there is new word to add it to the files with words and to file with description.
+
+To be able to input words in console until you stop it.
+to print Descriptons and option for clear the console.
+
+Option to check how much words there are saved in the file.
+Chose what template to use for the words and descriptions.
+Use the best template for the data.
